@@ -21,17 +21,19 @@ Autres solutions :
 
 [Pandas et la manipulation des données](/05_pandas.ipynb)
 
-[La visualisation des données](/06_Data_visualisation_matplotlib_seaborn.ipynb)
+[La visualisation des données](/06_data_visualisation_matplotlib_seaborn.ipynb)
 
-[La visualisation interactive des données](/06b_Visualisations_interactives.ipynb)
+[La visualisation interactive des données](/06b_visualisations_interactives.ipynb)
 
-[Exemple de machine learning supervisé](/08_modeleML.ipynb)
+[Exemple de machine learning supervisé - titanic](/07c_machine_learning_titanic.ipynb)
 
 [Le machine learning supervisé](/07a_Machine_learning_supervise.ipynb)
 
 [Le machine learning non supervisé](/07b_Machine_learning_non_supervise.ipynb)
 
-[ML sur du texte](/08a_Analyse_textuelle.ipynb)
+[Exemple de machine learning non supervisé - image](/07d_image_kmeans.ipynb)
+
+[Ecrire dans un fichier Excel](/08a_excel_write.ipynb)
 
 [Scrapping web](/08c_scrapping_web.ipynb)
 
